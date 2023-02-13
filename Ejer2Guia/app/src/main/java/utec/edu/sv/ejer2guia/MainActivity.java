@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
      {
          double precio1,resultado;
          double iva;
+         String name="";
          iva=1.134;
          precio1=Double.parseDouble(etprecio.getText().toString());
          resultado=precio1*iva;

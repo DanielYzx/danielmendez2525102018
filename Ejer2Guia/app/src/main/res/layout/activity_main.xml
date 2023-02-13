@@ -33,7 +33,7 @@
             android:layout_marginStart="16dp"
             android:layout_marginTop="44dp"
             android:ems="10"
-            android:hint="Nombre"
+            android:hint="Nombre...."
             android:inputType="textPersonName"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/txvNomprePro" />
