@@ -22,6 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
+                android:hint="Digite la tabla a mostrar"
                 android:inputType="textPersonName" />
 
             <Button
@@ -36,6 +37,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="333dp"
                 android:ems="10"
+                android:enabled="false"
                 android:gravity="start|top"
                 android:inputType="textMultiLine" />
         </LinearLayout>
