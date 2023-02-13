@@ -22,7 +22,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:ems="10"
-                android:hint="Digite la tabla a mostrar"
+                android:hint="Digite la tabla a mostrar..."
                 android:inputType="textPersonName" />
 
             <Button
